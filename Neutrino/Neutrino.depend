@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
 1514140582 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\main.c
 
-1576625017 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\src\constants.cpp
+1576625367 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\src\constants.cpp
 	"Constants.h"
 
 1576625104 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\constants.h
@@ -11,4 +11,9 @@
 	"Constants.h"
 
 1576625299 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\include\gravity.h
+
+1576678617 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\src\mass.cpp
+	"Mass.h"
+
+1576678620 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\include\mass.h
 
