@@ -66,6 +66,21 @@ public:
 
     }
 
+    // Get the average z value. Used in center of mass calculations
+    double getCenterZ()
+    {
+
+        double sum = 0.0;
+
+        for (int p=0; p<frame.size(); p++)
+        {
+            sum += frame[p].z;
+        }
+
+        return (sum / frame.size());
+
+    }
+
 protected:
     double mass;
     std::vector<Point3D> frame;

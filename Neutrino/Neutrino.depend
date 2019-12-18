@@ -12,8 +12,16 @@
 
 1576678807 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\include\gravity.h
 
-1576678741 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\src\mass.cpp
+1576679601 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\src\mass.cpp
 	"Mass.h"
 
-1576678726 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\include\mass.h
+1576680070 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\include\mass.h
+	<vector>
+
+1576679975 source:c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\src\unionmass.cpp
+	"UnionMass.h"
+
+1576680132 c:\users\ricoz\desktop\c++ workspace\neutrino\neutrino\include\unionmass.h
+	<vector>
+	"Mass.h"
 
